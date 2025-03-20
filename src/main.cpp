@@ -30,4 +30,4 @@ for (int i = 0; i < 6; i++)
   digitalWrite(LEDs[i],LOW);
 }
 delay(300);
-}
+}//end of main
