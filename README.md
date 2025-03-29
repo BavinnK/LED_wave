@@ -20,6 +20,7 @@ This project controls a set of 6 LEDs connected to an Arduino, creating a chasin
 - Connect each LED to digital pins **13, 12, 11, 10, 9, 8** on the Arduino.
 - Use a **220Ω - 330Ω resistor** in series with each LED to limit current.
 - Connect the other end of each LED to **GND**.
+![Neat Jarv-Wolt](https://github.com/user-attachments/assets/f47bb82d-3eee-4923-ba28-578101720538)
 
 
 
